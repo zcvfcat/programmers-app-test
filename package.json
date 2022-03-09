@@ -1,0 +1,23 @@
+{
+  "name": "programmers-fe-cat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -l 5000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcvfcat/programmers-fe-cat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zcvfcat/programmers-fe-cat/issues"
+  },
+  "homepage": "https://github.com/zcvfcat/programmers-fe-cat#readme",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
