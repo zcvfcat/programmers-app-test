@@ -5,7 +5,6 @@ export default class Breadcrumb extends Component {
   $nav = document.createElement('nav')
   /** @type {HTMLElement} */
   $target = document.createElement('ul')
-  /** @type {HTMLElement} */
 
   state = {
     depth: [],
